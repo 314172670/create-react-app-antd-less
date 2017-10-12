@@ -9,11 +9,4 @@
   ]
 }
 
-//在不改变主题默认颜色可采用按需加载
-//"plugins": [
-//["import",{
-//"libraryName": "antd",
-//"libraryDirectory": "lib",
-//"style": true
-//}]
-//]
+
