@@ -1,3 +1,9 @@
+/*
+ * @Author: Zting 
+ * @Date: 2017-10-12 13:49:12 
+ * @Last Modified by: mikey.zhaopeng
+ * @Last Modified time: 2017-10-12 13:52:38
+ */
 import React, { Component } from 'react';
 import './App.less';
 import './fonts/less/font-awesome.less';
