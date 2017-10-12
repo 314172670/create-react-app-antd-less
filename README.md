@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Create-react-app-antd-less     
 
  
