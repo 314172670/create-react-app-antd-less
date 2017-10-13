@@ -79,7 +79,7 @@
 
 		yarn add babel-preset-stage-2 babel-preset-es2015 --save-dev  //对于es6语法的处理
 
-		yarn add babel-plugin-import babel-preset-es2015 --save-dev  //按需加载antd组件
+		yarn add babel-plugin-import --save-dev  //按需加载antd组件
 		
 		yarn add less-loader --save-dev  //对less支持
 		
