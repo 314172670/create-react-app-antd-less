@@ -1,6 +1,7 @@
 {
   "presets": ["es2015",
-  "react"],
+  "react",
+  "stage-2"],
   "plugins": [["import",{
     "libraryName": "antd",
     "libraryDirectory": "lib",
@@ -10,6 +11,6 @@
 }
 
 
-//234444444
+
 
 
