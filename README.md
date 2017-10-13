@@ -75,13 +75,11 @@
 
         yarn add antd    //安装antd
 
-<<<<<<< HEAD
 		yarn add babel-plugin-import --save-dev  //按需加载antd组件
 
 		yarn add babel-preset-stage-2 babel-preset-es2015 --save-dev  //对于es6语法的处理
-=======
+
 		yarn add babel-plugin-import babel-preset-es2015 --save-dev  //按需加载antd组件
->>>>>>> bad92da95303bd0ba69612467ad2314dd5f2f965
 		
 		yarn add less-loader --save-dev  //对less支持
 		
@@ -98,10 +96,4 @@
 
 - 7、对于自定义拓展iconfont图标库，参考如下链接，在这就不多说了
 
-<<<<<<< HEAD
 	[ http://www.cnblogs.com/Nick-chen/p/7211879.html?utm_source=tuicool&utm_medium=referral]( http://www.cnblogs.com/Nick-chen/p/7211879.html?utm_source=tuicool&utm_medium=referral)
-=======
-	> http://www.cnblogs.com/Nick-chen/p/7211879.html?utm_source=tuicool&utm_medium=referral
-
-
->>>>>>> bad92da95303bd0ba69612467ad2314dd5f2f965
